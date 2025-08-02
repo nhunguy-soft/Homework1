@@ -25,7 +25,7 @@
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/c51740ce-ac3b-478e-a1be-74b6a284ee16" />
 
-## URLConnectionExample
+## URLConnectionExample.java
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/6f0d7293-56c0-4c25-abf2-0da0a1b3fb2e" />
 
@@ -33,7 +33,7 @@
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/d84dec51-775d-4c36-b0be-4e8bbefd32bc" />
 
-## UrlExample
+## UrlExample.java
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/69c392c4-14aa-49df-a74a-a427cae145a1" />
 
